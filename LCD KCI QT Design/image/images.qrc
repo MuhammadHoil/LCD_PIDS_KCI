@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Arrow  Door Left.png</file>
+        <file>Arrow  Door Right.png</file>
+        <file>Arrow Next Station.png</file>
+        <file>BG Door Close.png</file>
+        <file>BG Door Open.png</file>
+        <file>BG Next Station.png</file>
+        <file>BG Welcome.png</file>
+        <file>℃.png</file>
+        <file>Door Close.png</file>
+        <file>Door Open.png</file>
+        <file>KAI Commuter Single Color White Version.png</file>
+        <file>Logo Bogor Line.png</file>
+        <file>Logo Cikarang Line.png</file>
+        <file>Logo Rangkasibitung Line.png</file>
+        <file>Logo Tangerang Line.png</file>
+        <file>Logo Tanjung Priok Line.png</file>
+        <file>non door open.png</file>
+    </qresource>
+</RCC>
